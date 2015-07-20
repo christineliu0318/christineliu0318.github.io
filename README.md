@@ -1,1 +1,4 @@
-# christineliu0318.github.io
+Christine Liu
+================
+
+This is the readme for my personal resume website. 
