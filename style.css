@@ -4,14 +4,14 @@
   clear: both;
 }
 
-/*.download{
+.download{
 	display:inline-block;
 	padding:10px 10px;
 	background-color:#d3b1a7;
 	position:fixed;
 	top:0px;
 	right:0px;
-}*/
+}
 
 /* apply a natural box layout model to all elements, but allowing components to change */
 html {
@@ -24,7 +24,7 @@ html {
 body {
     font-family: Georgia, Times, "Times New Roman", serif;
     line-height: 1.5;
-    background: url(../images/background-8.jpg) no-repeat fixed;
+    background: url(background-8.jpg) no-repeat fixed;
     background-size: cover;
 }
 
@@ -158,7 +158,7 @@ header {
 /* SKILLS
 ----------*/
 .skills {
-  background:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/background-3.jpg) no-repeat;
+  background:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(background-3.jpg) no-repeat;
   background-size:cover;
   color:#ffffff
 }
