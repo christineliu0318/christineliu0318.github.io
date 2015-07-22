@@ -179,6 +179,10 @@ header {
   padding: 0;
 }
 
+.skills-circles ul{
+	margin:0 auto;
+}
+
 .skills-circles ul li {
   height: 150px;
   width: 150px;
